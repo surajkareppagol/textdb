@@ -1,0 +1,10 @@
+db
+db/*
+
+build
+build/*
+
+.cache
+.cache/*
+
+compile_commands.json
