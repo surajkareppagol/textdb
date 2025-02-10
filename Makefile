@@ -15,3 +15,6 @@ $(OBJS): build/%.o: src/%.c
 .PHONY: clean
 clean:
 	rm build/*
+
+run:
+	build/main
